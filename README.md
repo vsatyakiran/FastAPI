@@ -1,8 +1,9 @@
-# What is a Framework? https://datascientest.com/en/fastapi-everything-you-need-to-know-about-the-most-widely-used-python-web-framework-for-machine-learning#:~:text=Today%2C%20many%20world%2Drenowned%20companies,to%20code%2C%20speeding%20up%20development.
+# What is a Framework? 
 
 - A framework is a **collection of modules and packages** used to develop software and help developers avoid having to deal with low-level details.
 - A framework is a set of tools and libraries that help you build complex applications.
 - The three most widely used frameworks for developing web applications in Python are Django, Flask and FastAPI. Each has its own advantages and disadvantages, depending on the use case. The three main Python frameworks are **Django**, **Flash** and **FastAPI**.
+- [Know more](https://datascientest.com/en/fastapi-everything-you-need-to-know-about-the-most-widely-used-python-web-framework-for-machine-learning#:~:text=Today%2C%20many%20world%2Drenowned%20companies,to%20code%2C%20speeding%20up%20development.)
 
 # What is FastAPI?
 
